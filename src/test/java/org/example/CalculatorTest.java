@@ -26,3 +26,4 @@ class CalculatorTest {
     void subtractTwoNumbers() {
         assertEquals(1, calculator.subtract(3, 2));
     }
+}
